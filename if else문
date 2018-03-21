@@ -1,0 +1,7 @@
+x=input("150/15=")
+a=int(x)
+
+if a==10:
+    print('HORAY')
+else:
+    print('nice try')
